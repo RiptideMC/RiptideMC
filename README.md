@@ -15,7 +15,7 @@ I am currently pouring my focus into **HORIZON**, a heavily optimized, heavily m
 ### 💻 Technologies & Interests
 * **Frontend:** HTML5, CSS3, JavaScript
 * **Deployment & Cloud:** Vercel
-* **Interests:** Game proxies, clients/modding (`Tuff-Client`), and web automation.
+* **Interests:** Game proxies, clients/modding, and web automation.
 
 ### 📊 GitHub Stats
 [RiptideMC's GitHub stats](https://github.com/RiptideMC)
