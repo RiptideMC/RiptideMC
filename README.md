@@ -1,6 +1,6 @@
 # Hi there, I'm RiptideMC! 👋
 
-I'm a developer focused on web development, AI exploration, coding, and security breakthroughs. I love building tools and making things run faster.
+I'm a young developer focused on web development, AI exploration, coding, and security breakthroughs. I love building tools and making things run faster.
 
 ## 🛠️ My Biggest Project Right Now: HORIZON
 I am currently pouring my focus into **HORIZON**, a heavily optimized, heavily modded version of `GUST`. 
