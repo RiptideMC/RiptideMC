@@ -20,4 +20,4 @@ I am currently pouring my focus into **HORIZON**, a heavily optimized, heavily m
 ### 📊 GitHub Stats
 [RiptideMC's GitHub stats](https://github.com/RiptideMC)
 
-*⚡ "Current status: hunting the web for the next big thing."*
+*"Current status: hunting the web for the next big thing."*
