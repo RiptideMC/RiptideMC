@@ -18,6 +18,6 @@ I am currently pouring my focus into **HORIZON**, a heavily optimized, heavily m
 * **Interests:** Game proxies, clients/modding (`Tuff-Client`), and web automation.
 
 ### 📊 GitHub Stats
-![RiptideMC's GitHub stats](https://github.com/RiptideMC)
+[RiptideMC's GitHub stats](https://github.com/RiptideMC)
 
 *⚡ "Current status: hunting the web for the next big thing."*
