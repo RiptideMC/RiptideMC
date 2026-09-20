@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there, I'm RiptideMC! 👋
 
-<!--
-**RiptideMC/RiptideMC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a developer focused on web development, AI exploration, coding, and security breakthroughs. I love building tools and making things run faster.
 
-Here are some ideas to get you started:
+## 🛠️ My Biggest Project: HORIZON
+I am currently pouring my focus into **HORIZON**, a heavily optimized, heavily modded version of `GUST`. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **No ServiceWorkers:** Engineered to run smoothly without relying on ServiceWorkers.
+* **Speed:** Optimized for faster connection times and cleaner traffic handling.
+* **Bug Fixes:** Completely patched and stabilized from the original build.
+* **Live Demo:** Check out the live build hosted on [Vercel](https://horizon-riptide.vercel.app/ "horizon-riptide.vercel.app")!
+
+---
+
+### 💻 Technologies & Interests
+* **Frontend:** HTML5, CSS3, JavaScript
+* **Deployment & Cloud:** Vercel
+* **Interests:** Game proxies, clients/modding (`Tuff-Client`), and web automation.
+
+### 📊 GitHub Stats
+![RiptideMC's GitHub stats](https://vercel.app)
+
+*⚡ "Current status: hunting the web for the next big thing."*
