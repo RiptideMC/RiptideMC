@@ -1,4 +1,4 @@
-# Hi there, I'm RiptideMC! 👋
+# Hi there, I'm RiptideMC!
 
 I'm a young developer focused on web development, AI exploration, coding, and security breakthroughs. I love building tools and making things run faster.
 
