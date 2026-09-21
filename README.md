@@ -3,7 +3,7 @@
 I'm a young developer focused on web development, AI exploration, coding, and security breakthroughs. I love building tools and making things run faster.
 
 ## 🛠️ My Biggest Project Right Now: HORIZON
-I am currently pouring my focus into **HORIZON**, a heavily optimized, heavily modded version of `GUST`. 
+I am currently pouring my focus into **HORIZON**, a heavily optimized, heavily modded version of **GUST** by Nautilus Labs. 
 
 * **No ServiceWorkers:** Engineered to run smoothly without relying on ServiceWorkers.
 * **Speed:** Optimized for faster connection times and cleaner traffic handling.
