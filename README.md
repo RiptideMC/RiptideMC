@@ -1,23 +1,24 @@
 # Hi there, I'm RiptideMC!
 
-I'm a young developer focused on web development, AI exploration, coding, and security breakthroughs. I love building tools and making things run faster.
+I'm a young developer focused on web development, AI exploration, coding, and security breakthroughs. I love building software tools and games.
 
-## 🛠️ My Biggest Project Right Now: HORIZON
-I am currently pouring my focus into **HORIZON**, a heavily optimized, heavily modded version of **GUST** by Nautilus Labs. 
+## My Biggest Project Right Now: HORIZON
+I am currently pouring my focus into **HORIZON**, a heavily modded, optimized version of **GUST** by Nautilus Labs with additional features. 
 
 * **No ServiceWorkers:** Engineered to run smoothly without relying on ServiceWorkers.
+* **Patched & Stable:** Tons of new features such as tab cloaking, about:blank rerouting, remodeled network tunnelling, and so much more!
 * **Speed:** Optimized for faster connection times and cleaner traffic handling.
-* **Bug Fixes:** Completely patched and stabilized from the original build.
+* **Patched & Stable:** Completely debugged and rebuilt from the ground up.
 * **Live Demo:** Check out the live build hosted on [Vercel](https://horizon-riptide.vercel.app/ "horizon-riptide.vercel.app")!
 
 ---
 
-### 💻 Technologies & Interests
+### Technologies & Interests
 * **Frontend:** HTML5, CSS3, JavaScript
 * **Deployment & Cloud:** Vercel
 * **Interests:** Game proxies, clients/modding, and web automation.
 
-### 📊 GitHub Stats
-[RiptideMC's GitHub stats](https://github.com/RiptideMC)
+### GitHub Stats
+So far not much, working on more projects and improvements!
 
 *"Current status: hunting the web for the next big thing."*
