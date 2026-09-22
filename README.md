@@ -21,6 +21,6 @@ I am currently pouring my focus into **HORIZON**, a heavily modded, optimized ve
 ### GitHub Stats
 So far not much, working on more projects and improvements!
 
-*"Current status: hunting the web for the next big thing."*
+*"Current status: ded"*
 
 ### **Contact:** `oofTOWN87@gmail.com`
