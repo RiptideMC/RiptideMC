@@ -1,4 +1,4 @@
-# Riptide Network ➔ [@RiptideMC](github.com/RiptideMC)
+# Riptide Network ➔ [@RiptideMC](https://github.com/RiptideMC)
 
 I'm a young developer focused on web development, AI exploration, coding, and security breakthroughs. I love building software tools and games.
 
