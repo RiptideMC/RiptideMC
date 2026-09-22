@@ -1,4 +1,4 @@
-# Hi there, I'm RiptideMC!
+# Riptide Network ➔ @RiptideMC
 
 I'm a young developer focused on web development, AI exploration, coding, and security breakthroughs. I love building software tools and games.
 
@@ -22,3 +22,5 @@ I am currently pouring my focus into **HORIZON**, a heavily modded, optimized ve
 So far not much, working on more projects and improvements!
 
 *"Current status: hunting the web for the next big thing."*
+
+## **Contact:** `oofTOWN87@gmail.com`
