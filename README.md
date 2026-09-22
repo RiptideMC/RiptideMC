@@ -1,4 +1,4 @@
-# Riptide Network ➔ @RiptideMC
+# Riptide Network ➔ [@RiptideMC](github.com/RiptideMC)
 
 I'm a young developer focused on web development, AI exploration, coding, and security breakthroughs. I love building software tools and games.
 
@@ -23,4 +23,4 @@ So far not much, working on more projects and improvements!
 
 *"Current status: hunting the web for the next big thing."*
 
-## **Contact:** `oofTOWN87@gmail.com`
+### **Contact:** `oofTOWN87@gmail.com`
