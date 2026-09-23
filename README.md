@@ -21,6 +21,12 @@ I am currently pouring my focus into **HORIZON**, a heavily modded, optimized ve
 ### GitHub Stats
 So far not much, working on more projects and improvements!
 
+---
+
+![Snake Animation](https://raw.githubusercontent.com/RiptideMC/RiptideMC/output/ocean.gif)
+
+---
+
 *"Current status: im ded trust"*
 
 ### **Contact:** `oofTOWN87@gmail.com`
