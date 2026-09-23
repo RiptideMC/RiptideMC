@@ -2,6 +2,13 @@
 
 I'm a young developer focused on web development, AI exploration, coding, and security breakthroughs. I love building software tools and games.
 
+---
+
+[![GitHub stats-Dark](https://reallycoolgithubreadme.vercel.app/api?username=RiptideMC&theme=dark#gh-dark-mode-only)](https://github.com/RiptideMC#gh-dark-mode-only)
+[![GitHub stats-Light](https://reallycoolgithubreadme.vercel.app/api?username=RiptideMC&theme=default#gh-light-mode-only)](https://github.com/RiptideMC#gh-light-mode-only)
+
+---
+
 ## My Biggest Project Right Now: HORIZON
 I am currently pouring my focus into **HORIZON**, a heavily modded, optimized version of **GUST** by Nautilus Labs with additional features. 
 
