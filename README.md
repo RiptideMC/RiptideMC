@@ -23,7 +23,11 @@ So far not much, working on more projects and improvements!
 
 ---
 
-![Snake Animation](https://raw.githubusercontent.com/RiptideMC/RiptideMC/output/ocean.gif)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://project516.dev/snk/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://project516.dev/snk/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://project516.dev/snk/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
