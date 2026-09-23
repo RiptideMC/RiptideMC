@@ -20,6 +20,7 @@ I am currently pouring my focus into **HORIZON**, a heavily modded, optimized ve
 
 ### GitHub Stats
 So far not much, working on more projects and improvements!
+
 ![](https://komarev.com/ghpvc/?username=RiptideMC&color=66ffa1)
 ---
 
