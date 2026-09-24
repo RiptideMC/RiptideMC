@@ -3,12 +3,11 @@
 I'm a young developer focused on web development, AI exploration, coding, and security breakthroughs. I love building software tools and games.
 
 ## My Biggest Project Right Now: HORIZON
-I am currently pouring my focus into **HORIZON**, a heavily modded, optimized version of **GUST** by Nautilus Labs with additional features. 
+I am currently pouring my focus into **[HORIZON](https://github.com/RiptideMC/HORIZON)**, a heavily modded, optimized version of **GUST** by Nautilus Labs with additional features. 
 
 * **No ServiceWorkers:** Engineered to run smoothly without relying on ServiceWorkers.
-* **Patched & Stable:** Tons of new features such as tab cloaking, about:blank rerouting, patched network tunnelling, and so much more!
+* **Patched & Stable:** Tons of new features such as tab cloaking, about:blank rerouting, patched network tunnelling, and so much more! Completely debugged and rebuilt from the ground up.
 * **Speed:** Optimized for faster connection times and cleaner traffic handling.
-* **Patched & Stable:** Completely debugged and rebuilt from the ground up.
 * **Live Demo:** Check out the live build hosted on [Vercel](https://horizon-riptide.vercel.app/ "horizon-riptide.vercel.app")!
 
 ---
