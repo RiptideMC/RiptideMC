@@ -7,7 +7,7 @@ I'm a young developer focused on web development, AI exploration, coding, and se
 [![GitHub stats-Dark](https://reallycoolgithubreadme.vercel.app/api?username=RiptideMC&theme=dark#gh-dark-mode-only)](https://github.com/RiptideMC#gh-dark-mode-only)
 [![GitHub stats-Light](https://reallycoolgithubreadme.vercel.app/api?username=RiptideMC&theme=default#gh-light-mode-only)](https://github.com/RiptideMC#gh-light-mode-only)
 <br><br>
-<a href="https://github.com/project516"><img src="https://reallycoolgithubreadmestreakstats.vercel.app/?user=RiptideMC6&theme=transparent&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
+<a href="https://github.com/RiptideMC"><img src="https://reallycoolgithubreadmestreakstats.vercel.app/?user=RiptideMC6&theme=transparent&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
 
 ---
 
