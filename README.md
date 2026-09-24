@@ -21,8 +21,7 @@ I am currently pouring my focus into **HORIZON**, a heavily modded, optimized ve
 ### GitHub Stats
 ---
 
-[![GitHub stats-Dark](https://reallycoolgithubreadme.vercel.app/api?username=RiptideMC&theme=dark#gh-dark-mode-only)](https://github.com/RiptideMC#gh-dark-mode-only)
-[![GitHub stats-Light](https://reallycoolgithubreadme.vercel.app/api?username=RiptideMC&theme=default#gh-light-mode-only)](https://github.com/RiptideMC#gh-light-mode-only)
+
 
 ![](https://komarev.com/ghpvc/?username=RiptideMC&color=66ffa1)
 
