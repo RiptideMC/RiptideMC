@@ -2,13 +2,6 @@
 
 I'm a young developer focused on web development, AI exploration, coding, and security breakthroughs. I love building software tools and games.
 
----
-
-[![GitHub stats-Dark](https://reallycoolgithubreadme.vercel.app/api?username=RiptideMC&theme=dark#gh-dark-mode-only)](https://github.com/RiptideMC#gh-dark-mode-only)
-[![GitHub stats-Light](https://reallycoolgithubreadme.vercel.app/api?username=RiptideMC&theme=default#gh-light-mode-only)](https://github.com/RiptideMC#gh-light-mode-only)
-
----
-
 ## My Biggest Project Right Now: HORIZON
 I am currently pouring my focus into **HORIZON**, a heavily modded, optimized version of **GUST** by Nautilus Labs with additional features. 
 
@@ -26,7 +19,12 @@ I am currently pouring my focus into **HORIZON**, a heavily modded, optimized ve
 * **Interests:** Game proxies, clients/modding, and web automation.
 
 ### GitHub Stats
-So far not much, working on more projects and improvements!
+---
+
+[![GitHub stats-Dark](https://reallycoolgithubreadme.vercel.app/api?username=RiptideMC&theme=dark#gh-dark-mode-only)](https://github.com/RiptideMC#gh-dark-mode-only)
+[![GitHub stats-Light](https://reallycoolgithubreadme.vercel.app/api?username=RiptideMC&theme=default#gh-light-mode-only)](https://github.com/RiptideMC#gh-light-mode-only)
+
+---
 
 ![](https://komarev.com/ghpvc/?username=RiptideMC&color=66ffa1)
 ---
