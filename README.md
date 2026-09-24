@@ -23,7 +23,7 @@ I am currently pouring my focus into **[HORIZON](https://github.com/RiptideMC/HO
 [![GitHub stats-Dark](https://reallycoolgithubreadme.vercel.app/api?username=RiptideMC&theme=dark#gh-dark-mode-only)](https://github.com/RiptideMC#gh-dark-mode-only)
 [![GitHub stats-Light](https://reallycoolgithubreadme.vercel.app/api?username=RiptideMC&theme=default#gh-light-mode-only)](https://github.com/RiptideMC#gh-light-mode-only)
 
-![](https://komarev.com/ghpvc/?username=dinguschan-owo&color=66ffa1)
+![](https://komarev.com/ghpvc/?username=RiptideMC&color=66ffa1)
 
 ---
 
